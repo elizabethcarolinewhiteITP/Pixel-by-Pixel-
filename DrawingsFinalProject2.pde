@@ -47,7 +47,7 @@ void setup() {
 void draw() {
 
   background(0);
-  translate(0, 0, -height/2-800);
+  translate(0, 0, -height/2-600);
   scale(1.7);
   angle += 0.01;
   //rotateY(angle);  
